@@ -9,5 +9,7 @@ public class compiler {
     }
     private void lex(String input) {
         // todo
-    }
+    } private void compile(List<String> tokens) {
+
+			}
 }
